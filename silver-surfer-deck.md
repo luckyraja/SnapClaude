@@ -13,9 +13,9 @@ This is a Silver Surfer deck that focuses on playing powerful 3-cost cards and t
 3. **Brood** (3-cost) - Creates 3 Broodlings, excellent for spreading power
 4. **Sebastian Shaw** (3-cost) - Gains power throughout the game, excellent scaling
 5. **Polaris** (3-cost) - Move opponent's cards, good for disruption
-6. **Mystique** (3-cost) - Can copy Silver Surfer's ability for double buff!
+6. **Gladiator** (3-cost) - Destroys opponent's card if yours has more power, great removal
 7. **Spider-Man** (3-cost) - Disrupts opponent by moving their cards
-8. **Absorbing Man** (3-cost) - Can repeat Silver Surfer's buff ability
+8. **Absorbing Man** (3-cost) - Can repeat Silver Surfer's buff ability (KEY CARD!)
 9. **Sage** (3-cost) - Scales with cards at location, great for board filling
 
 ### Support Cards (Non-3-Cost)
@@ -36,45 +36,46 @@ This is a Silver Surfer deck that focuses on playing powerful 3-cost cards and t
 - Consider Shang-Chi if opponent has big threats
 
 ### Late Game (Turn 6)
-- **Ideal Turn 6:** Play Silver Surfer + Mystique (copies Surfer) + another 3-cost with Sera discount
-- This gives you a massive power swing with double Surfer buffs
-- Alternatively: Surfer + Absorbing Man (repeats the buff) for a huge final turn
-- With Sera: Can potentially play 2-3 cards on turn 6
+- **Ideal Turn 6:** Play Silver Surfer + Absorbing Man (repeats the buff) for massive power swing
+- This gives you a double Surfer buff (+4 Power to all 3-costs!)
+- With Sera: Can potentially play Surfer + Absorbing Man + another 3-cost
+- Alternative: Just Silver Surfer + multiple 3-costs if you have Sera discount
 
 ## Key Combos
-- **Silver Surfer → Mystique**: Copies Surfer's ability, giving all 3-costs +4 Power total
-- **Silver Surfer → Absorbing Man**: Repeats the buff, giving all 3-costs +4 Power total
+- **Silver Surfer → Absorbing Man**: THE KEY COMBO! Repeats the buff, giving all 3-costs +4 Power total
 - **Sera → Multiple 3-costs on Turn 6**: Play multiple 3-costs that all get buffed
 - **Brood + Silver Surfer**: The Broodlings (3-cost) also get buffed by Surfer
 - **Sebastian Shaw**: Gets stronger every turn, massive with Surfer buff
+- **Gladiator**: Use after Surfer buff to destroy opponent's big threats with higher power
 
 ## Win Conditions
 1. Flood the board with 3-cost cards
-2. Buff them all with Silver Surfer (potentially twice with Mystique/Absorbing Man)
+2. Buff them all with Silver Surfer (potentially twice with Absorbing Man!)
 3. Win through overwhelming power across multiple locations
-4. Use Shang-Chi to remove opponent's big threats
+4. Use Shang-Chi and Gladiator to remove opponent's big threats
 5. Polaris and Spider-Man provide disruption
 
 ## Strengths
-- Explosive Turn 6 power with Silver Surfer + Mystique/Absorbing Man
+- Explosive Turn 6 power with Silver Surfer + Absorbing Man combo
 - Flexible gameplay with many 3-cost options
 - Brood provides excellent board presence
 - Sebastian Shaw scales throughout the game
-- Shang-Chi handles big threats
+- Shang-Chi and Gladiator handle big threats
+- Good disruption with Polaris and Spider-Man
 
 ## Weaknesses
-- Vulnerable to Cosmo (blocks On Reveals)
+- Vulnerable to Cosmo (blocks On Reveals, including Surfer and Absorbing Man)
 - Can struggle against destroy decks
 - Relies heavily on drawing Silver Surfer
-- Enchantress can disable Mystique/other Ongoing abilities
+- Shadow King can reset Sebastian Shaw's gained power
 
 ## Tech Options (Cards you could swap)
 From your collection, other 3-cost options to consider:
-- **Gladiator** (3-cost) - Great for removing threats
 - **Rockslide** (3-cost) - Disrupts opponent's draws
 - **Storm** (3-cost) - Locks down a location early
 - **Killmonger** (3-cost) - Tech against 1-cost spam decks
-- **Cosmo** (3-cost) - Prevents opponent's On Reveals
+- **Cosmo** (3-cost) - Prevents opponent's On Reveals (but also blocks your Surfer!)
+- **Mystique** (3-cost) - Only works with Ongoing abilities, NOT with Surfer
 
 ---
 
